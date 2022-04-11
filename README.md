@@ -5,3 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 gitHub is best place for developers
+I am happy to use gitHub
